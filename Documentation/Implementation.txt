@@ -1,0 +1,20 @@
+- Install PyCharm
+
+-Instal droidcamapp on desktop and phone (this will serve as webcam)
+
+-Connect the phone with application on desktop, enter ip of desktop on phone
+
+-Run the program
+==================================================================================
+Program
+
+The program uses the pretrained model ssd mobilenets version 3. The weights path and dataset (coco large) are used
+These files were taken from the internet.
+
+The program has three aspects.
+
+the importing_ model, weightpath, coco dataset
+
+the model integration, prereq code_ everything regarding net. The network is established
+
+the bound box formulation, everything in loop while
