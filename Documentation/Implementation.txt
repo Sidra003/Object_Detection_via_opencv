@@ -1,3 +1,5 @@
+- Install Python latest Version
+
 - Install PyCharm
 
 -Instal droidcamapp on desktop and phone (this will serve as webcam)
